@@ -1,4 +1,4 @@
-### Hi there 👋 I am Himanshi , a passionate 4rd year computer science with a passion for open source contributions. I thrive on solving complex problems and building innovative solutions.
+### Hi there 👋 I am Himanshi , a passionate 4rd year undergraduate with a passion for open source contributions. I thrive on solving complex problems and building innovative solutions.
 
 - 🔭 Currently, I’m dedicating my efforts to contributing to open-source projects.
 - 🌱 I’m eagerly learning machine learning techniques and new development tools.
