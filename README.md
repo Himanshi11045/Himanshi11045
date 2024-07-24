@@ -8,7 +8,9 @@
 Experience:
 
 Research Contributions:
+
 •	Actively involved in the development of Graph Neural Networks (GNNs) for analyzing network structures to improve security breach detection and accuracy by uncovering complex data patterns.
+
 •	Led the development of Machine Learning and Deep Learning methods to detect malware on Android devices, helping to improve cybersecurity.
 
 
