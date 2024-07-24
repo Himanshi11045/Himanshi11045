@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on innovative projects involving AI-driven solutions and cutting-edge development tools.
 - 🤔 I’m utilizing my experience in AWS cost optimization to enhance efficiency and reduce expenses.
 
-Experience:
+### Experience:
 
-Research Contributions:
+### Research Contributions:
 
 •	Actively involved in the development of Graph Neural Networks (GNNs) for analyzing network structures to improve security breach detection and accuracy by uncovering complex data patterns.
 
