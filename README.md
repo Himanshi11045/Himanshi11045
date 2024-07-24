@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I am Himanshi , a passionate 4rd year computer science with a passion for open source contributions. I thrive on solving complex problems and building innovative solutions.
 
 <!--
 **Himanshi11045/Himanshi11045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently, I’m dedicating my efforts to contributing to open-source projects.
+- 🌱 I’m eagerly learning machine learning techniques and new development tools.
+- 👯 I’m looking to collaborate on innovative projects involving AI-driven solutions and cutting-edge development tools.
+- 🤔 I’m utilizing my experience in AWS cost optimization to enhance efficiency and reduce expenses.
+
+Experience:
+
+Research Contributions:
+•	Actively involved in the development of Graph Neural Networks (GNNs) for analyzing network structures to improve security breach detection and accuracy by uncovering complex data patterns.
+•	Led the development of Machine Learning and Deep Learning methods to detect malware on Android devices, helping to improve cybersecurity.
+
+
