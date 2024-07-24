@@ -1,10 +1,5 @@
 ### Hi there 👋 I am Himanshi , a passionate 4rd year computer science with a passion for open source contributions. I thrive on solving complex problems and building innovative solutions.
 
-<!--
-**Himanshi11045/Himanshi11045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Currently, I’m dedicating my efforts to contributing to open-source projects.
 - 🌱 I’m eagerly learning machine learning techniques and new development tools.
 - 👯 I’m looking to collaborate on innovative projects involving AI-driven solutions and cutting-edge development tools.
